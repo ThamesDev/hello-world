@@ -1,2 +1,3 @@
 # hello-world
-A test repo for learning
+
+Oh look it's me I am a GitHub user now. That's pretty cool I guess.
